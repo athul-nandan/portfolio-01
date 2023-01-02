@@ -1,0 +1,12 @@
+h3{
+    align-items: center;
+    text-align: center;
+    color: brown;
+    border: 2px black solid;
+    background-color: aqua;
+    text-underline-offset: 1px;
+    text-shadow: 3px 3px 3px yellow;
+}
+p{font-size: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+div p{border: 10px black dotted;}
